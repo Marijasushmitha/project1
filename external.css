@@ -1,0 +1,26 @@
+.head{
+    color:blueviolet;
+    background-color: antiquewhite;
+    padding:4px;
+    text-shadow: 5px 5px 5px red;
+    text-transform: capitalize;
+}
+.para{
+    text-indent:50px;
+    text-align:justify;
+    white-space: pre-wrap;
+    color:chartreuse;
+    background-color: black;
+    text-decoration: dashed;
+
+}
+.container{
+    background-image: url("https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111.jpg");
+    font-size:20px;
+    background-size: cover;
+    margin:10px;
+    border-style: groove;
+    border-radius: 10%;
+    border-color: darkblue;
+
+}
